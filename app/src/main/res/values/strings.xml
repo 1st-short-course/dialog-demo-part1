@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogDemo</string>
+    <string name="p_title">Perfect</string>
+    <string name="p_message">Downloading</string>
+    <string name="s_title">Simple Dialog</string>
+    <string name="ok">Accept</string>
+    <string name="no">Deny</string>
+    <string name="cancel">Cancel</string>
+    <string name="r_title">Choose University</string>
+    <string name="m_title">Choose Course :</string>
+</resources>
